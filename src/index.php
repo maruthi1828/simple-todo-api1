@@ -8,15 +8,15 @@ header('Access-Control-Allow-Methods: GET, POST, OPTIONS');
 $response = [
     [
         "_id" => 1,
-        "todo" => "Todo 1"
+        "todo" => "Jenkins"
     ],
     [
         "_id" => 2,
-        "todo" => "Todo 2"
+        "todo" => "Docker"
     ],
     [
         "_id" => 3,
-        "todo" => "Todo 3"
+        "todo" => "Kubernetes"
     ],
     [
         "_id" => 4,
