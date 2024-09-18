@@ -20,23 +20,23 @@ $response = [
     ],
     [
         "_id" => 4,
-        "todo" => "Todo 4"
+        "todo" => "Terraform"
     ],
     [
         "_id" => 5,
-        "todo" => "Todo 5"
+        "todo" => "Ansible"
     ],
       [
         "_id" => 6,
-        "todo" => "Todo 6"
+        "todo" => "GIT"
     ],
       [
         "_id" => 7,
-        "todo" => "maruthi manikanta"
+        "todo" => "Maven"
     ],
     [
         "_id" => 7,
-        "todo" => "maruthi"
+        "todo" => "Linux"
     ]
     
 ];
